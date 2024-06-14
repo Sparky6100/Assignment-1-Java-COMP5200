@@ -1,0 +1,10 @@
+Taxi Company Report
+Taxi T4 driven by Molly Benjamin had 14 journeys and made £210
+Shuttle S3 had 25 journeys and made £183
+Taxi T1 driven by Zaffer Chopra had 4 journeys and made £120
+Taxi T2 driven by Uwe Rebenich had 5 journeys and made £125
+Shuttle S1 had 19 journeys and made £37
+Taxi T3 driven by Kemi Adeyeye had 9 journeys and made £315
+Shuttle S2 had 27 journeys and made £126
+
+Total takings for the day £1116
